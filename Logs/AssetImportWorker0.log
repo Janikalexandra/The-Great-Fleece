@@ -1,0 +1,125 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.985; Version 2009; 64bit' Language: 'en' Physical Memory: 16304 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+F:/Unity Projects/The Great Fleece
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53883
+Successfully changed project path to: F:/Unity Projects/The Great Fleece
+F:/Unity Projects/The Great Fleece
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 34.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/Unity Projects/The Great Fleece/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 Ti (ID=0x1b06)
+    Vendor:   
+    VRAM:     11127 MB
+    Driver:   27.21.14.6647
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56868
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002369 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 33.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.195 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001314 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.900 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.8 MB.
+System memory in use after: 63.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1569.
+Total: 1.846300 ms (FindLiveObjects: 0.157500 ms CreateObjectMapping: 0.026500 ms MarkObjects: 1.319000 ms  DeleteObjects: 0.342000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/Stealth_Game_Assets/The Great Fleece/Game/_Scenes
+  artifactKey: Guid(998a318039a08418b912fef5ea7c8d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/Stealth_Game_Assets/The Great Fleece/Game/_Scenes using Guid(998a318039a08418b912fef5ea7c8d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8ec88452f78167ed9822db5f2315928') in 0.010140 seconds
+  Import took 0.012323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/Stealth_Game_Assets/The Great Fleece/Game/_Scenes/Main.unity
+  artifactKey: Guid(9b026484f43ebc14f85fe756ec990657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/Stealth_Game_Assets/The Great Fleece/Game/_Scenes/Main.unity using Guid(9b026484f43ebc14f85fe756ec990657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e1b7d891f948fac6fbfd1320b95129e') in 0.014088 seconds
+  Import took 0.015884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.382594 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/Stealth_Game_Assets/The Great Fleece/Game/_Scenes/Main.unity
+  artifactKey: Guid(9b026484f43ebc14f85fe756ec990657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/Stealth_Game_Assets/The Great Fleece/Game/_Scenes/Main.unity using Guid(9b026484f43ebc14f85fe756ec990657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e1b7d891f948fac6fbfd1320b95129e') in 0.002332 seconds
+  Import took 0.004646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.920635 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/Stealth_Game_Assets/The Great Fleece/Game/Post_Processing_Profiles/Captured_Cutscene_Profile.asset
+  artifactKey: Guid(8c519d2ef0df3488784d04e763bca864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/Stealth_Game_Assets/The Great Fleece/Game/Post_Processing_Profiles/Captured_Cutscene_Profile.asset using Guid(8c519d2ef0df3488784d04e763bca864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c552d73f8ff8a37ed5080ee7c6a2238') in 0.022372 seconds
+  Import took 0.024645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/Stealth_Game_Assets/The Great Fleece/Game/Post_Processing_Profiles/Depth_Of_Field_Hallway_Profile.asset
+  artifactKey: Guid(53a6497bbb27a47419130bda002a8a7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/Stealth_Game_Assets/The Great Fleece/Game/Post_Processing_Profiles/Depth_Of_Field_Hallway_Profile.asset using Guid(53a6497bbb27a47419130bda002a8a7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cec3acc94ce2ea7ba864cf293c192eb9') in 0.007091 seconds
+  Import took 0.009316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/Stealth_Game_Assets/The Great Fleece/Game/Post_Processing_Profiles/Main_Profile.asset
+  artifactKey: Guid(1424e5ab37c0046868c6691a0d72cb38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/Stealth_Game_Assets/The Great Fleece/Game/Post_Processing_Profiles/Main_Profile.asset using Guid(1424e5ab37c0046868c6691a0d72cb38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9226204bb17406cc99133a05c25a9a8f') in 0.006949 seconds
+  Import took 0.009023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/Stealth_Game_Assets/The Great Fleece/Game/Post_Processing_Profiles/Main_With_Depth_Of_Field_Profile.asset
+  artifactKey: Guid(280fa7a8d931e459da21c5ec3442c99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/Stealth_Game_Assets/The Great Fleece/Game/Post_Processing_Profiles/Main_With_Depth_Of_Field_Profile.asset using Guid(280fa7a8d931e459da21c5ec3442c99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '907ab22c602341e52ef49f427b4fb8ce') in 0.006648 seconds
+  Import took 0.008440 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
